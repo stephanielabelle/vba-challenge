@@ -8,5 +8,5 @@ Utilize VBA script to analyze stock prices provided in an Excel Workbook.  Scrip
 2. Positive and negative Yearly Change is highlighted by green or red cell colour, respectively  
 3. For each year: greatest % increase, greatest % decrease, and greatest total volume is displayed
 
-## Conclusions:
+## Results:
 Screenshots of the output is available by year in this respository's main branch.
